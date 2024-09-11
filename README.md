@@ -1,6 +1,6 @@
 # Hi there! I am CX. 👋
 ## Junior Developer based in Brasília-Brazil 🇧🇷
-- ⚡ Fun fact: I have an MBA in Marketing, Branding and Growth and have worked as Graphic and Product Designer for 4 years. Also, CX stands for Calixto.
+- ⚡ Fun fact: I have an MBA in Marketing, Branding and Growth and have worked as Graphic and Product Designer for 4 years.
 - 🔭 I’m currently working on learning everything I can to find a job in tech.
 - 🌱 I’m currently learning Javascript and Typescript.
 - 💡 I want to learn more about Front-end and UX/UI.
