@@ -1,10 +1,10 @@
 # Hi there! I am CX. 👋
 ## Full Stack Developer based in Brasília-Brazil 🇧🇷
-- 📚 I'm currently pursuing a postgraduate degree in full stack development.
+- 📚 I'm pursuing a postgraduate degree in full stack development.
 - ⚡ Fun fact: I have an MBA in Marketing, Branding and Growth and have worked as Graphic and Product Designer for 4 years.
-- 🔭 I’m currently working on learning everything I can to find a job in tech.
-- 🌱 I’m currently learning Javascript and Typescript.
-- 💡 I want to learn more about Front-end and UX/UI.
+- 🔭 I'm eager to find a job in tech and am dedicated to learning everything I can.
+- 🌱 I’m currently mastering Javascript and Typescript.
+- 💡 I'm keen to expand my knowledge in Front-end and UX/UI.
 
 <div style="display: inline_block">
     <br><br>
