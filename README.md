@@ -6,6 +6,14 @@
 - 🌱 I’m currently mastering Javascript and Typescript.
 - 💡 I'm keen to expand my knowledge in Front-end and UX/UI.
 
+
+<div>
+<a href="https://github.com/cxjube">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxjube&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+</div>
+
+
 <div style="display: inline_block">
     <br><br>
 <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -26,13 +34,6 @@
 <a href="https://instagram.com/cxjube" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!--  <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
 </div>          
-          
-<div>
-<a href="https://github.com/cxjube">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxjube&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cxjube&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-</div>
     
 <!--
 **cxjube/cxjube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
