@@ -1,8 +1,8 @@
 # Hi there! I am CX. 👋
-## Full Stack Developer based in Brasília-Brazil 🇧🇷
+## Full Stack Developer/UX Designer based in Brasília-Brazil 🇧🇷
 - 📚 I'm pursuing a postgraduate degree in full stack development.
-- ⚡ Fun fact: I have an MBA in Marketing, Branding and Growth and have worked as Graphic and Product Designer for 4 years.
-- 🔭 I'm eager to find a job in tech and am dedicated to learning everything I can.
+- ⚡ Fun fact: My cat's name is Apollo Creed.
+- 🔭 Nowadays I'm working as an UX/UI Designer.
 - 🌱 I’m currently mastering Javascript and Typescript.
 - 💡 I'm keen to expand my knowledge in Front-end and UX/UI.
 
