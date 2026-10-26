@@ -1,8 +1,8 @@
-# Hi there! I am CX. 👋
+# Hi there! I am Cali. 👋
 ## Designer based in Brasília-Brazil 🇧🇷
-- 🔭 Nowadays I'm working as an UX/UI Designer.
+- 🔭 Working as an UX/UI Engineer.
 - 🌱 I’m currently mastering UX/UI Workflows with AI.
-- 💡 I'm keen to expand my knowledge in Front-end and UX/UI.
+- 💡 Always keen to expand my knowledge in Front-end and UX/UI.
 
 
 <div>
